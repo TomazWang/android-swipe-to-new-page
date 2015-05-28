@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Specific Color -->
+    <color name="themeColor_blue">@color/blue_standard_bg</color>
+    <color name="icon_search">@color/pink_dress</color>
+    <color name="icon_music">@color/yellow_bright</color>
+    <color name="icon_movie">@color/orange_skinTone</color>
+
+    <!-- Basic Color -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- blue -->
+    <color name="blue_standard_bg">#27323E</color>
+    <color name="blue_ocean">#2B65EC</color>
+    <color name="blue_dress">#157DEC</color>
+    <color name="blue_sky">#6698FF</color>
+    <color name="blue_sky2">#82CAFF</color>
+    <color name="blue_sky_light">#82CAFA</color>
+    <color name="blue_sky_deep">#3BB9FF</color>
+    <color name="blue_powder">#C6DEFF</color>
+    <color name="blue_cobalt">#0020C2</color>
+    <color name="blue_steel">#4863A0</color>
+    <color name="blue_light">#a9d6eb</color>
+
+    <!-- gray black -->
+    <color name="black_midnight">#2B1B17</color>
+    <color name="black_oil">#3B3131</color>
+    <color name="gray_wolf">#504A4B</color>
+    <color name="gray_vampire">#565051</color>
+    <color name="gray_ash">#666362</color>
+    <color name="gray_cloud">#B6B6B4</color>
+
+    <!-- yellow -->
+    <color name="yellow_corn">#FFF380</color>
+    <color name="yellow_cream">#FFFFCC</color>
+    <color name="yellow_sun">#FFE87C</color>
+    <color name="yellow_bright">#FFF338</color>
+    <color name="orange">#FFA844</color>
+    <color name="orange_Cantaloupe">#FFA62F</color>
+    <color name="orange_light">#ebe6c8</color>
+    <color name="orange_skinTone">#F0855D</color>
+
+    <!-- green -->
+    <color name="green_apple">#4CC417</color>
+    <color name="green_zombie">#54C571</color>
+    <color name="green_jungle">#347C2C</color>
+    <color name="green_lime">#41A317</color>
+    <color name="green_jade">#5EFB6E</color>
+    <color name="green_clover">#3EA055</color>
+    <color name="green_darkJungle">#125A26</color>
+    <color name="green_light">#c8ebd6</color>
+    <color name="green_oliver">#609e4d</color>
+
+    <!-- pink -->
+    <color name="pink">#FAAFBE</color>
+    <color name="pink_neon">#F535AA</color>
+    <color name="pink_rose">#E7A1B0</color>
+    <color name="pink_pig">#FDD7E4</color>
+    <color name="pink_dress">#E95098</color>
+
+    <!-- RED -->
+    <color name="red">#FF0000</color>
+
+    <!-- Purple -->
+    <color name="purple_amethyst">#6C2DC7</color>
+    <color name="purple_light">#d8c8eb</color>
+
+</resources>
